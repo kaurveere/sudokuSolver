@@ -19,8 +19,13 @@ public:
 
 private slots:
     void on_pushButton_clicked();
+    void on_pushButton_2_clicked();
 
 private:
     Ui::MainWindow *ui;
+    void readBoardFromTable();
+    void writeBoardToTable();
+    bool solveSudoku();
+    bool isInitialBoardValid();
 };
 #endif // MAINWINDOW_H
