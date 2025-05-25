@@ -373,6 +373,6 @@ C:/sudokuSolver/mainwindow.h
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
  mdp:C:/sudokuSolver/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/sudokusolver_autogen/moc_predefs.h
  mdp:C:/sudokuSolver/mainwindow.h
+C:/sudokuSolver/main.cpp
 C:/sudokuSolver/mainwindow.cpp
  uic:./ui_mainwindow.h
-C:/sudokuSolver/main.cpp
